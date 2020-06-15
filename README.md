@@ -1,2 +1,2 @@
-# WEB-Project
-WEB design project for school 
+# Линк към сайта :
+https://borissokolov11.github.io/WEB-Project/
